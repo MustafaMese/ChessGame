@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "92349890685",
+    "firebase_url": "https://chess-ultima.firebaseio.com",
+    "project_id": "chess-ultima",
+    "storage_bucket": "chess-ultima.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92349890685:android:e5e208db12aeaf08677114",
+        "android_client_info": {
+          "package_name": "com.mycompany.myngdroidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92349890685-0pgjsbs9bl87ekogdtbhgvqbafgbopb0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.myngdroidapp",
+            "certificate_hash": "edbe1f83239c2fd7e3192f8a54193f6b7ce4e4dd"
+          }
+        },
+        {
+          "client_id": "92349890685-bbg14beg0iro03q9likoohdh317dn2q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtcoThiiyQREXXFQpjcTM-4IDBTEA5p0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92349890685-bbg14beg0iro03q9likoohdh317dn2q7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
